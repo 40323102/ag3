@@ -10,7 +10,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20160501215436.2" a="E"><vh>pelican 部份</vh>
+<v t="amd.20160501215436.2"><vh>pelican 部份</vh>
 <v t="amd.20160501215558.1" a="E"><vh>@path ./../../../</vh>
 <v t="amd.20160501223113.1"><vh>@edit README.md</vh></v>
 <v t="amd.20160501215634.1" a="E"><vh>@path static</vh>
@@ -28,8 +28,8 @@
 </v>
 </v>
 </v>
-<v t="amd.20160501215545.1" a="E"><vh>wsgi 程式部份</vh>
-<v t="leo.20160607162412.1" a="E"><vh>@clean ag3_40323102_2.py</vh>
+<v t="amd.20160501215545.1"><vh>wsgi 程式部份</vh>
+<v t="leo.20160607162412.1"><vh>@clean ag3_40323102_2.py</vh>
 <v t="leo.20160607162412.2"><vh>ag3_40323102_2 declarations</vh></v>
 <v t="leo.20160607162412.3"><vh>a</vh></v>
 <v t="leo.20160607162412.4"><vh>b</vh></v>
@@ -60,7 +60,7 @@
 <v t="leo.20160607162412.29"><vh>snap_link</vh></v>
 <v t="leo.20160607162412.30"><vh>snap_gear</vh></v>
 </v>
-<v t="leo.20160607162419.1" a="E"><vh>@clean ag3_40323102.py</vh>
+<v t="leo.20160607162419.1"><vh>@clean ag3_40323102.py</vh>
 <v t="leo.20160607162419.2"><vh>ag3_40323102 declarations</vh></v>
 <v t="leo.20160607162419.3"><vh>circle36</vh></v>
 <v t="leo.20160607162419.4"><vh>circle35</vh></v>
@@ -74,7 +74,8 @@
 <v t="leo.20160607162419.12"><vh>threegear</vh></v>
 <v t="leo.20160616182203.1"><vh>threegear2</vh></v>
 </v>
-<v t="amd.20160501221015.1" a="E"><vh>@path ./../../../</vh>
+</v>
+<v t="amd.20160501221015.1"><vh>@path ./../../../</vh>
 <v t="amd.20160501221001.1" a="E"><vh>@clean myflaskapp.py</vh>
 <v t="amd.20160501221001.2"><vh>myflaskapp declarations</vh></v>
 <v t="amd.20160501221001.3"><vh>index</vh></v>
@@ -93,7 +94,6 @@
 <v t="amd.20160501221001.16"><vh>send_static</vh></v>
 <v t="amd.20160501230850.1"><vh>send_blog</vh></v>
 <v t="amd.20160501225844.1"><vh>send_file</vh></v>
-</v>
 </v>
 </v>
 </vnodes>
