@@ -5,34 +5,34 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://cdw11-40323250.rhcloud.com/static/blog/</loc>
-<lastmod>2016-06-16T20:50:54-00:00</lastmod>
+<lastmod>2016-06-16T21:06:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://cdw11-40323250.rhcloud.com/static/blog/archives.html</loc>
-<lastmod>2016-06-16T20:50:54-00:00</lastmod>
+<lastmod>2016-06-16T21:06:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://cdw11-40323250.rhcloud.com/static/blog/tags.html</loc>
-<lastmod>2016-06-16T20:50:54-00:00</lastmod>
+<lastmod>2016-06-16T21:06:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://cdw11-40323250.rhcloud.com/static/blog/categories.html</loc>
-<lastmod>2016-06-16T20:50:54-00:00</lastmod>
+<lastmod>2016-06-16T21:06:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://cdw11-40323250.rhcloud.com/static/blog/40323102-qi-mo-bao-gao.html</loc>
+<loc>http://cdw11-40323250.rhcloud.com/static/blog/40323102-final-bao-gao.html</loc>
 <lastmod>2016-06-16T19:58:08+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -74,8 +74,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://cdw11-40323250.rhcloud.com/static/blog/tag/40323102.html</loc>
-<lastmod>2016-06-16T19:58:08+08:06</lastmod>
+<loc>http://cdw11-40323250.rhcloud.com/static/blog/tag/cdw11.html</loc>
+<lastmod>2016-06-16T15:58:09+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -88,8 +88,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://cdw11-40323250.rhcloud.com/static/blog/tag/cdw11.html</loc>
-<lastmod>2016-06-16T15:58:09+08:06</lastmod>
+<loc>http://cdw11-40323250.rhcloud.com/static/blog/tag/40323102.html</loc>
+<lastmod>2016-06-16T19:58:08+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
